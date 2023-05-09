@@ -1,0 +1,13 @@
+@import "../../styles/variaveis.scss";
+
+.content-gallery{
+    h2{
+        color: $roxo;
+        font-family: $fonte-bold;
+        padding-top: 1em;
+    }
+    img{
+        width: 10%;
+        aspect-ratio: 1/1;
+    }
+}

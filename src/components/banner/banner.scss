@@ -1,0 +1,22 @@
+@import "../../styles/variaveis.scss";
+
+.content-background{
+    position: relative;
+    overflow: hidden;
+    img{
+        border-radius: 1em;
+        max-width: 90%;
+    }
+    h3{
+        padding: 0;
+        margin: 0;
+        position: absolute;
+        color: $cor-do-texto;
+        font-family: $fonte-bold;
+        font-size: 2vmax;
+        width: 20vmax;
+        font-weight: 700;
+        left: 2em;
+        top: 2em;
+    }
+}

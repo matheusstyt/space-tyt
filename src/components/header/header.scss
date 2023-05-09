@@ -1,0 +1,41 @@
+@import "../../styles/variaveis.scss";
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 0.3em 2em;
+    h1{
+        font-family: "Consolas";
+        color: $cor-do-texto;
+
+    }
+    .content-search{
+        padding: 0.7em 0.3em;
+        display: flex;
+        align-items: center;
+        border: 3px solid transparent;
+        border-image: linear-gradient(to left, $roxo, $rosa);
+        border-image-slice: 1;
+        border-radius: 5px;
+        input{
+            font-family: "Consolas";
+            min-width: 450px;
+            border: none;
+            outline: none;
+            color: $cor-do-texto;
+            background-color: transparent;
+            &::placeholder{
+                color: $cinza-claro;
+            }
+        }
+        .search-ico{
+            color: $roxo;
+        }
+    }
+}
+.content-logo { 
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}

@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+}
+@import "../../styles/variaveis.scss";
+
+.content-tags{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    h4{
+        color: $cor-do-texto;
+        font-family: $fonte-normal
+    }
+    ul{
+        margin: 0;
+        list-style: none;
+        padding: 0;
+        display: flex;
+        gap: 2em;
+        align-items: center;
+        justify-content: space-evenly;
+        padding: 0em 2em;
+        box-sizing: border-box;
+        li{
+            cursor: pointer;
+            background-color: $cinza-claro;
+            border: none;
+            border-radius: 5px;
+            padding: 0.3em;
+            color: #fff;
+            &:last-child{
+                background-color: transparent;
+                color: $roxo;
+                font-family: $fonte-bold;
+                font-size: 1.5em;
+            }
+
+        }
+    }
+}

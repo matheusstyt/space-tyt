@@ -1,0 +1,26 @@
+@import "../../styles/variaveis.scss";
+footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1em 0;
+    background-color: $azul-rodape;
+    h3{
+        color: $cor-do-texto;
+        font-weight: 400;
+        margin-right: 2em;
+    }
+}
+.content-redes-sociais{
+    display: flex;
+    margin-left: 2em;
+    gap: 2em;
+    .ico-color{
+        color: white;
+    }
+    
+}

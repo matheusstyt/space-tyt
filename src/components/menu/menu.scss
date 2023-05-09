@@ -1,0 +1,33 @@
+@import "../../styles/variaveis.scss";
+.menu-nav{
+    ul{
+        
+        list-style: none;
+        padding: 0;
+        display: flex;
+        align-items: flex-start;
+        flex-flow: column;
+        gap: 1.5em;
+        li{
+            cursor: pointer;
+
+            box-sizing: border-box;
+            padding-left: 1em;
+            display: flex;
+            gap: 1em;
+            justify-content: flex-start;
+            align-items: center;
+            p{
+                font-family: $fonte-normal;
+                margin: 0;
+                color: $cor-do-texto;
+                font-size: 1em;
+            }
+        }
+    }
+}
+.ico-padrao{
+    background-color: $back-ico;
+    border-radius: 7px;
+    padding: 0.3em;
+}

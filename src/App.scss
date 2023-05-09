@@ -1,0 +1,25 @@
+
+.App-header {
+  box-sizing: border-box;
+  background-color: #282c34;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  padding-left: 1em;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+main{
+  .content-principal{
+    display: flex;
+    gap: 1em;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+}
+.App-link {
+  color: #61dafb;
+}
+

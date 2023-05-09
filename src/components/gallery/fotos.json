@@ -1,0 +1,192 @@
+{
+    "fotos" : [
+        {   
+            "id" : "1",
+            "titulo" : "Buraco Negro",
+            "src" : "/assets/static/black_role.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "buraco_negro"
+        },
+        {   
+            "id" : "2",
+            "titulo" : "Terra vista do espaço",
+            "src" : "/assets/static/earth.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "buraco_negro"
+        },
+        {   
+            "id" : "3",
+            "titulo" : "Eclipse Solar Completo",
+            "src" : "/assets/static/eclipse_lunar.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        },
+        {   
+            "id" : "4",
+            "titulo" : "Galáxia profunda",
+            "src" : "/assets/static/galaxy_1.png",
+            "creditos" : "matheus galdino",
+            "tag" : "galaxias"
+        },
+        {   
+            "id" : "5",
+            "titulo" : "Grupo de estrelas brilhantes",
+            "src" : "/assets/static/group_stars_1.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "estrelas"
+        },
+        {   
+            "id" : "6",
+            "titulo" : "Céu estrelado",
+            "src" : "/assets/static/group_stars.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "estrelas"
+        },
+        {   
+            "id" : "7",
+            "titulo" : "Interstellar",
+            "src" : "/assets/static/interstellar.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "buraco_negro"
+        },
+        {   
+            "id" : "8",
+            "titulo" : "Jupiter",
+            "src" : "/assets/static/jupiter.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        },
+        {   
+            "id" : "9",
+            "titulo" : "Marte",
+            "src" : "/assets/static/marte_1.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        },
+        {   
+            "id" : "10",
+            "titulo" : "Lua Cheia",
+            "src" : "/assets/static/moon_2.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        },
+        {   
+            "id" : "11",
+            "titulo" : "Lua de Sangue",
+            "src" : "/assets/static/moon_blood.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        },
+        {   
+            "id" : "12",
+            "titulo" : "Lua Rosa",
+            "src" : "/assets/static/moon_rose_1.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        },
+        {   
+            "id" : "13",
+            "titulo" : "Lua Rosa 1",
+            "src" : "/assets/static/moon_rose_2.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        },
+        {   
+            "id" : "14",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "15",
+            "titulo" : "Lua",
+            "src" : "/assets/static/moon.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "16",
+            "titulo" : "Nebulosa Demon",
+            "src" : "/assets/static/nebulosas_demon.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "nebulosas"
+        }
+        ,
+        {   
+            "id" : "17",
+            "titulo" : "Nebulosa Orion",
+            "src" : "/assets/static/nebulosa_orion.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        ,
+        {   
+            "id" : "13",
+            "titulo" : "Lua com Zoom",
+            "src" : "/assets/static/moon_zoom.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "lua"
+        }
+        
+
+    ]
+}
