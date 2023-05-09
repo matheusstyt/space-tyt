@@ -7,11 +7,19 @@ export default function Gallery() {
     <div className='content-gallery'>
         <h2>Navegue pela galeria</h2>
         <Tags/>
-        {
-            fotos.fotos.map(fotos => {
-                return <img src={fotos.src} alt='foto '/>
-            })
-        }
+        <ul>
+            {
+                fotos.fotos.map(fotos => {
+                    return <li key={fotos.id}>
+                        <img src={fotos.src} alt='foto '/>
+                        <h3>{fotos.titulo}</h3>
+                        <p>Fonte/fotógrafo/satétilite</p>
+                    </li>
+                })
+            }
+            
+        </ul>
+        
     </div>
   )
 }

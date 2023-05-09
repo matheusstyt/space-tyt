@@ -110,7 +110,7 @@
         {   
             "id" : "16",
             "titulo" : "Nebulosa Demon",
-            "src" : "/assets/static/nebulosas_demon.jfif",
+            "src" : "/assets/static/nebulosa_demon.jfif",
             "creditos" : "matheus galdino",
             "tag" : "nebulosas"
         }
@@ -124,7 +124,71 @@
         }
         ,
         {   
-            "id" : "13",
+            "id" : "18",
+            "titulo" : "Nebulosa Borboleta",
+            "src" : "/assets/static/nebulosa-borboleta.jpg",
+            "creditos" : "matheus galdino",
+            "tag" : "nebulosas"
+        }
+        ,
+        {   
+            "id" : "19",
+            "titulo" : "Nebulosa Olho de Deus",
+            "src" : "/assets/static/nebulosa-olho_de_deus.jpg",
+            "creditos" : "matheus galdino",
+            "tag" : "nebulosas"
+        }
+        ,
+        {   
+            "id" : "20",
+            "titulo" : "Neturno ",
+            "src" : "/assets/static/neturno_1.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        }
+        ,
+        {   
+            "id" : "21",
+            "titulo" : "Pilares da Criação ",
+            "src" : "/assets/static/pillars_of_creation.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "nebulosas"
+        }
+        ,
+        {   
+            "id" : "22",
+            "titulo" : "Saturno e Cometa",
+            "src" : "/assets/static/saturn_1.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        }
+        ,
+        {   
+            "id" : "23",
+            "titulo" : "Saturno",
+            "src" : "/assets/static/saturn_2.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        }
+        ,
+        {   
+            "id" : "24",
+            "titulo" : "Saturno nas Nuvens",
+            "src" : "/assets/static/saturn_3.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "planetas"
+        }
+        ,
+        {   
+            "id" : "25",
+            "titulo" : "Céu azul estrelado",
+            "src" : "/assets/static/sky.jfif",
+            "creditos" : "matheus galdino",
+            "tag" : "estrelas"
+        }
+        ,
+        {   
+            "id" : "26",
             "titulo" : "Lua com Zoom",
             "src" : "/assets/static/moon_zoom.jfif",
             "creditos" : "matheus galdino",
@@ -132,61 +196,60 @@
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "27",
+            "titulo" : "Estrela de Belém",
+            "src" : "/assets/static/star_1.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "estrelas"
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "28",
+            "titulo" : "Via Láctea no céu noturno",
+            "src" : "/assets/static/via_lactea_1.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "via_lactea"
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "29",
+            "titulo" : "Colisão de Via Lácteas",
+            "src" : "/assets/static/via_lactea_2.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "via_lactea"
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "30",
+            "titulo" : "Espiral Via Láctea",
+            "src" : "/assets/static/via_lactea_3.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "via_lactea"
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "31",
+            "titulo" : "Via Láctea",
+            "src" : "/assets/static/via_lactea_4.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "via_lactea"
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "32",
+            "titulo" : "Via Láctea",
+            "src" : "/assets/static/via_lactea_5.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "via_lactea"
         }
         ,
         {   
-            "id" : "13",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "id" : "33",
+            "titulo" : "Via Láctea",
+            "src" : "/assets/static/via_lactea.jfif",
             "creditos" : "matheus galdino",
-            "tag" : "lua"
+            "tag" : "via_lactea"
         }
-        
 
     ]
 }

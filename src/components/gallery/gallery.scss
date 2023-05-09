@@ -6,8 +6,25 @@
         font-family: $fonte-bold;
         padding-top: 1em;
     }
-    img{
-        width: 10%;
-        aspect-ratio: 1/1;
+    ul{
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-evenly;
+        align-items: center;
+        gap: 2em;
+        li{
+            img{
+                border-radius: 1em;
+                width: 300px;
+                aspect-ratio: 1/1;
+            }
+            h3, p {
+                color: #fff;
+                font-family: $fonte-normal;
+            }
+        }
     }
+    
 }
