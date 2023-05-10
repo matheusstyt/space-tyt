@@ -7,22 +7,44 @@
         padding-top: 1em;
     }
     ul{
-        padding: 0;
+        padding: 0.5em 0;
+
         list-style: none;
         display: flex;
         flex-flow: row wrap;
         justify-content: space-evenly;
         align-items: center;
-        gap: 2em;
+        gap: 1em;
         li{
+            border-radius: 1em;
+            overflow: hidden;
+            cursor: pointer;
+            .content-info{
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                background-color: $azul-rodape;
+                box-sizing: border-box;
+                padding: 0.5em 1em;
+                .ico-card{
+                    &:hover{
+                        fill: rgb(223, 65, 104);
+                    }
+                    &:active{
+                        fill: rgb(165, 28, 62);
+                    }
+                }
+            }
             img{
-                border-radius: 1em;
-                width: 300px;
+                
+                width: 250px;
                 aspect-ratio: 1/1;
             }
             h3, p {
                 color: #fff;
                 font-family: $fonte-normal;
+                font-size: 0.8em;
+   
             }
         }
     }

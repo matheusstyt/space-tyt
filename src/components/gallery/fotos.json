@@ -3,7 +3,7 @@
         {   
             "id" : "1",
             "titulo" : "Buraco Negro",
-            "src" : "/assets/static/black_role.jfif",
+            "src" : "/assets/static/buraco.jpg",
             "creditos" : "matheus galdino",
             "tag" : "buraco_negro"
         },
@@ -79,22 +79,22 @@
         },
         {   
             "id" : "12",
-            "titulo" : "Lua Rosa",
+            "titulo" : "Lua Rosa nas Nuvens",
             "src" : "/assets/static/moon_rose_1.jfif",
             "creditos" : "matheus galdino",
             "tag" : "lua"
         },
         {   
             "id" : "13",
-            "titulo" : "Lua Rosa 1",
+            "titulo" : "Lua Rosa Grande",
             "src" : "/assets/static/moon_rose_2.jfif",
             "creditos" : "matheus galdino",
             "tag" : "lua"
         },
         {   
             "id" : "14",
-            "titulo" : "Lua com Zoom",
-            "src" : "/assets/static/moon_zoom.jfif",
+            "titulo" : "Lua Azul",
+            "src" : "/assets/static/moon_blue.jfif",
             "creditos" : "matheus galdino",
             "tag" : "lua"
         }

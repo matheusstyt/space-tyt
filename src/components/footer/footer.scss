@@ -21,6 +21,9 @@ footer{
     gap: 2em;
     .ico-color{
         color: white;
+        &:hover{
+            fill: rgb(178, 35, 70);
+        }
     }
     
 }

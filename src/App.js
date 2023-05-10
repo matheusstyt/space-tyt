@@ -5,6 +5,7 @@ import HomePage from './views/home_page';
 import Menu from './components/menu';
 import Footer from './components/footer';
 import Gallery from './components/gallery';
+import Populares from './components/populares';
 
 function App() {
   return (
@@ -15,9 +16,7 @@ function App() {
         <section className='content-principal'>
         <Menu/>  
         <HomePage />
-        </section>
-        <section>
-
+        <Populares />
         </section>
       </main>
 

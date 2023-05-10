@@ -14,9 +14,11 @@
 main{
   .content-principal{
     display: flex;
+    padding-top: 1em;
     gap: 1em;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-evenly;
+    width: 90vw;
   }
 }
 .App-link {

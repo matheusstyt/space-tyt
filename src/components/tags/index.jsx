@@ -10,7 +10,9 @@ export default function Tags() {
             <li>Galáxias</li>
             <li>Lua</li>
             <li>Planetas</li>
-            <li>Populares</li>
+            <li>Via lácteas</li>
+            <li>Buracos Negro</li>
+            <li>Nebulosas</li>
         </ul>
         
     </div>
